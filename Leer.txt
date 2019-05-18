@@ -1,0 +1,66 @@
+Hola, en la entrega del TP final de teoria de la informacion se importo las siguientes librerias:
+
+Clase Menu
+import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.Font;
+import java.util.Vector;
+import javax.swing.JFrame;
+import javax.swing.JScrollPane;
+import javax.swing.JTextArea;
+
+Clase CanalConMatrizTransicion
+import java.awt.Color;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.Hashtable;
+import javax.imageio.ImageIO;
+
+CanalSinMatrizTransicion
+import java.io.PrintWriter;
+import java.util.Hashtable;
+import java.util.Vector;
+
+Canal
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.math.BigDecimal;
+import java.math.RoundingMode;
+import java.util.Hashtable;
+import java.util.Vector;
+
+Leer_Imagen
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.IOException;
+import java.util.Vector;
+import java.awt.Color;
+import javax.imageio.ImageIO;
+
+CanalSimulacion
+import java.io.PrintWriter;
+import java.util.Vector;
+
+Muestreo_Computacional
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.Collections;
+import java.util.Hashtable;
+import java.util.Vector;
+
+Una aclaracion muy importante el ejecutable esta suelto en la carpeta y se llama ejecutablefinal.jar.txt
+Esta en .txt porque Gmail no lo dejaba mandar sino.
+Tienen que cambiarle la extension y dejarlo solo en .jar.
+
+Alumnos:
+Lacoste, yamil.
+Luti, alberto.
+
